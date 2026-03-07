@@ -76,7 +76,7 @@ GitHub:
 https://github.com/tiwraj441
 
 LinkedIn:  
-(Add your LinkedIn here)
+https://www.linkedin.com/in/rajdeep-tiwari-b1090a230/
 
 ---
 
