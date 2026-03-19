@@ -20,9 +20,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/tiwarirajdeep732?theme=dark" />
-
 <img src="https://leetcode-streak-stats.herokuapp.com/?user=tiwarirajdeep732&theme=dark" />
 
 </p>
