@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/tiwarirajdeep732?theme=dark&font=Baloo" />
+<img src="https://leetcode-stats.vercel.app/api?username=tiwarirajdeep732&theme=dark" />
 
 <img src="https://leetcode-streak-stats.herokuapp.com/?user=tiwarirajdeep732&theme=dark" />
 
