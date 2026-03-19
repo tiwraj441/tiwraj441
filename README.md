@@ -37,8 +37,19 @@
 
 ---
 
-## leetcode stats
-![LeetCode Stats](https://leetcode-stats-card.jacoblin.cool{https://leetcode.com/u/tiwarirajdeep732/})
+## 🧩 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/tiwarirajdeep732?theme=dark&font=Karma&ext=heatmap" />
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcode-streak-stats.herokuapp.com/?user=tiwarirajdeep732&theme=dark" />
+
+</p>
 
 
 ## 📊 GitHub Stats
